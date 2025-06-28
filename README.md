@@ -1,5 +1,5 @@
-"# Machine Learning" 
-# Projetos de Machine Learning
+# Machine Learning
+## Projetos de Machine Learning
 
 Repositório de experimentos e projetos pessoais usando técnicas de Machine Learning com Python, desenvolvidos no Google Colab.
 
